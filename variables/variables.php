@@ -21,5 +21,4 @@ $nombre =null;
 echo gettype($peso);
 
 
-
  ?>
